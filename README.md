@@ -30,7 +30,7 @@ g_index.txt:
 2. Each index only occupy one line in the txt file, and it should corresponding to the sample.txt.
 3. The index will be unavailable if it is equal the index of the first nucleobase or the last nucleobase.
 4. The predicted result could be unauthentic if the m7G site pointed by the index was not in the middle of the RNA sequence.
-4. The m7G-DLSTM do not care about what the nucleobase pointed by the index is, but the predicted result could be unauthentic if the m7G site pointed by the index was not G.
+4. The m7G-DLSTM does not care about what the nucleobase pointed by the index is, but the predicted result could be unauthentic if the m7G site pointed by the index was not G.
 5. If this file does not exist, m7G-DLSTM will generate a g_index.txt automatically, and each index will be set as "len(RNA sequence) // 2" (the integer quotient of the length of RNA sequence divided by 2)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
