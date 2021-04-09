@@ -79,4 +79,4 @@ m7G<br>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-After preparing sample.txt and g_index.txt, please running the m7G-DLSTM.exe and waiting for it.
+After preparing sample.txt and g_index.txt, please running the m7G-DLSTM.py and waiting for it.
