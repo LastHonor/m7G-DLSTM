@@ -2,17 +2,14 @@
 Identification of RNA N7-methlguanosine sites in human with directional Double-LSTM Model
 
 
-Python Requirement:
-
-Python >= 3.0
+Python Requirement:<br>
+Python >= 3.0<br>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Package Requirement:
-
-numpy >= 1.19.5
-
-tensorflow >= 2.4.0
+Package Requirement:<br>
+numpy >= 1.19.5<br>
+tensorflow >= 2.4.0<br>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -38,24 +35,19 @@ g_index.txt:
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-sample.txt example:
-
-AUGCAUUAGCCUUGUGGCUAGAACACCCUCUUCCUACCUCU
-UUCUUUUUUUUGUUUCAGAAGAACUGGACGGGGCUGGAGGA
-AGGAACCCCCUGAACCCCAAGAGAGGGAGGACCAGGAUCCG
-UUUUAGUUAAACGUUGAGGAGAAAAAAAAAAAAGGCUUUUC
+sample.txt example:<br>
+AUGCAUUAGCCUUGUGGCUAGAACACCCUCUUCCUACCUCU<br>
+UUCUUUUUUUUGUUUCAGAAGAACUGGACGGGGCUGGAGGA<br>
+AGGAACCCCCUGAACCCCAAGAGAGGGAGGACCAGGAUCCG<br>
+UUUUAGUUAAACGUUGAGGAGAAAAAAAAAAAAGGCUUUUC<br>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-g_index.txt example:
-
-20
-
-20
-
-20
-
-20
+g_index.txt example:<br>
+20<br>
+20<br>
+20<br>
+20<br>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -71,27 +63,19 @@ result.txt
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-probability_of_m7G.txt example:
-
-0.34106347
-
-0.8998517
-
-0.7676672
-
-0.76144606
+probability_of_m7G.txt example:<br>
+0.34106347<br>
+0.8998517<br>
+0.7676672<br>
+0.76144606<br>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-result.txt example:
-
-non-m7G
-
-m7G
-
-m7G
-
-m7G
+result.txt example:<br>
+non-m7G<br>
+m7G<br>
+m7G<br>
+m7G<br>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
