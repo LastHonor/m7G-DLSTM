@@ -3,21 +3,24 @@ Identification of RNA N7-methlguanosine sites in human with directional Double-L
 
 
 Python Requirement:
+
 Python >= 3.0
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Package Requirement:
+
 numpy >= 1.19.5
+
 tensorflow >= 2.4.0
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 sample.txt:
 1. RNA sequence in sample.txt will be predicted.
-2. Please ensure: (1) each single RNA sequence only occupy one line in the txt file.
-                          (2) Sequence string is in upper case.
-                          (3) The string only consists of A, C, G and U.
+3. Please ensure: (1) each single RNA sequence only occupy one line in the txt file.
+                  (2) Sequence string is in upper case.
+                  (3) The string only consists of A, C, G and U.
 3. Each RNA sequence can have any number of nucleobases (at least 3 nucleobases).
 5. All nucleobases will be used for predicting, except for the m7G site.
 4. The predicted result could be unauthentic if the number of RNA sequence was not equal to 41.
