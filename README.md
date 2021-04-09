@@ -41,11 +41,8 @@ g_index.txt:
 sample.txt example:
 
 AUGCAUUAGCCUUGUGGCUAGAACACCCUCUUCCUACCUCU
-
 UUCUUUUUUUUGUUUCAGAAGAACUGGACGGGGCUGGAGGA
-
 AGGAACCCCCUGAACCCCAAGAGAGGGAGGACCAGGAUCCG
-
 UUUUAGUUAAACGUUGAGGAGAAAAAAAAAAAAGGCUUUUC
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
